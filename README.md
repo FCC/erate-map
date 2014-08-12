@@ -1,4 +1,4 @@
 title: README file
 ---
 
-Maps currently in draft form.
+For more information about these maps, please see <http://www.fcc.gov/maps/E-rate-fiber-map> 
