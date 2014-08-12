@@ -4,9 +4,9 @@ layout: map-iframe
 <div id="desc-schoolDist" class="map-desc hide" markdown="1">
 #### School Districts
 
-This is an interactive map that shows, by School District, the percent of public schools with fiber connectivity sized by number of students. It does not show what percent of schools within a district actually subscribe to high-speed fiber. The universe of public schools is defined using 2011-2012 NCES Public School Data available at <a href="http://nces.ed.gov/ccd/pubschuniv.asp" target="_blank">http://nces.ed.gov/ccd/pubschuniv.asp</a>. 
+This is an interactive map that shows, by School District, the percent of public schools with fiber connectivity sized by number of students. It does not show what percent of schools within a district actually subscribe to high-speed fiber. The universe of public schools is defined using 2011-2012 NCES Public School Data available at <a href="http://nces.ed.gov/ccd/pubschuniv.asp" target="eratemap">http://nces.ed.gov/ccd/pubschuniv.asp</a>. 
 
-Connectivity status is compiled from data from the National Broadband Map (June 2013) and data submitted to the FCC in WC Docket Number 13-184 and posted at <a href="http://www.fcc.gov/encyclopedia/E-rate-modernization-data" target="_blank">http://www.fcc.gov/encyclopedia/E-rate-modernization-data</a>. Fiber connectivity is determined from either notation of "fiber" as the specific connection technology (at any speed) or a connection speed of at least 100 Mbps.
+Connectivity status is compiled from data from the National Broadband Map (June 2013) and data submitted to the FCC in WC Docket Number 13-184 and posted at <a href="http://www.fcc.gov/encyclopedia/E-rate-modernization-data" target="_top">http://www.fcc.gov/encyclopedia/E-rate-modernization-data</a>. Fiber connectivity is determined from either notation of "fiber" as the specific connection technology (at any speed) or a connection speed of at least 100 Mbps.
 
 #### About
 
@@ -23,16 +23,16 @@ We recognize that the current version of this map only identifies connectivity t
 
 #### Community Engagement
 
-Can you help improve the data that drives this map?  The Commission has asked for comment to help identify the gap between schools’ and libraries’ current connectivity and the specific connectivity targets the Commission adopted in its E-Rate Modernization Order.  Can you help by providing a district or school name that is not identified?  A school’s NCES ID (found at <a href="http://nces.ed.gov/ccd/schoolsearch/" target="_target">http://nces.ed.gov/ccd/schoolsearch/</a>)?  An individual school’s connection technology (e.g., fiber, cable, T-1, wireless) or advertised download speed?  
+Can you help improve the data that drives this map?  The Commission has asked for comment to help identify the gap between schools’ and libraries’ current connectivity and the specific connectivity targets the Commission adopted in its E-Rate Modernization Order.  Can you help by providing a district or school name that is not identified?  A school’s NCES ID (found at <a href="http://nces.ed.gov/ccd/schoolsearch/" target="eratemap">http://nces.ed.gov/ccd/schoolsearch/</a>)?  An individual school’s connection technology (e.g., fiber, cable, T-1, wireless) or advertised download speed?  
 
 Please submit your comments, which will be included in the public record for WC Docket Number 13-184, to <schoolfibermap@fcc.gov>.  Those e-mailed comments will be used to periodically update this map.  All information submitted to that e-mail address, including names and e-mail and street addresses, will be publicly available via the web.
 </div>
 <div id="desc-library" class="map-desc hide" markdown="1">
 #### Libraries
 
-This is an interactive map that shows which public libraries (central and branch) are connected to fiber. It does not show what percent of libraries actually subscribe to high-speed fiber. The universe of public libraries is defined using the 2011-2012 IMLS Public Libraries Survey available from <a href="http://www.imls.gov/research/pls_data_files.aspx" target="_new">http://www.imls.gov/research/pls_data_files.aspx</a>. 
+This is an interactive map that shows which public libraries (central and branch) are connected to fiber. It does not show what percent of libraries actually subscribe to high-speed fiber. The universe of public libraries is defined using the 2011-2012 IMLS Public Libraries Survey available from <a href="http://www.imls.gov/research/pls_data_files.aspx" target="eratemap">http://www.imls.gov/research/pls_data_files.aspx</a>. 
 
-Connectivity status is compiled from data from the National Broadband Map (June 2013) and data submitted to the FCC in WC Docket Number 13-184 and posted at <a href="http://www.fcc.gov/encyclopedia/E-rate-modernization-data" target="_new">http://www.fcc.gov/encyclopedia/E-rate-modernization-data</a>. Fiber connectivity is determined from either notation of "fiber" as the specific connection technology (at any speed) or a connection speed of at least 100 Mbps.
+Connectivity status is compiled from data from the National Broadband Map (June 2013) and data submitted to the FCC in WC Docket Number 13-184 and posted at <a href="http://www.fcc.gov/encyclopedia/E-rate-modernization-data" target="_top">http://www.fcc.gov/encyclopedia/E-rate-modernization-data</a>. Fiber connectivity is determined from either notation of "fiber" as the specific connection technology (at any speed) or a connection speed of at least 100 Mbps.
 
 #### About
 
@@ -46,7 +46,7 @@ Consistent with that effort, and to better understand the current state of fiber
 
 #### Community Engagement
 
-Can you help improve the data that drives this map?  The Commission has asked for comment to help identify the gap between schools' and libraries' current connectivity and the specific connectivity targets the Commission adopted in its E-rate Modernization Order.  Can you help by providing the name of a library that is not identified?  A library's FSCS ID (found at <a href="http://harvester.census.gov/imls/search/" target="_new">http://harvester.census.gov/imls/search/</a>)?  An individual library's connection technology (e.g., fiber, cable, T-1, wireless) or advertised download speed?  
+Can you help improve the data that drives this map?  The Commission has asked for comment to help identify the gap between schools' and libraries' current connectivity and the specific connectivity targets the Commission adopted in its E-rate Modernization Order.  Can you help by providing the name of a library that is not identified?  A library's FSCS ID (found at <a href="http://harvester.census.gov/imls/search/" target="eratemap">http://harvester.census.gov/imls/search/</a>)?  An individual library's connection technology (e.g., fiber, cable, T-1, wireless) or advertised download speed?  
 
 Please submit your comments, which will be included in the public record for WC Docket Number 13-184, to <libraryfibermap@fcc.gov>. Those e-mailed comments will be used to periodically update this map. All information submitted to that e-mail address, including names and e-mail and street addresses, will be publicly available via the web.
 
