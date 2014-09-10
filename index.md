@@ -6,7 +6,7 @@ layout: map
 
 This is an interactive map that shows, by School District, the percent of public schools with fiber connectivity sized by number of students. It does not show what percent of schools within a district actually subscribe to high-speed fiber. The universe of public schools is defined using 2011-2012 NCES Public School Data available at [http://nces.ed.gov/ccd/pubschuniv.asp](http://nces.ed.gov/ccd/pubschuniv.asp). 
 
-Connectivity status is compiled from data from the National Broadband Map (June 2013) and data submitted to the FCC in WC Docket Number 13-184 and posted at [http://www.fcc.gov/encyclopedia/E-rate-modernization-data](http://www.fcc.gov/encyclopedia/E-rate-modernization-data). Fiber connectivity is determined from either notation of "fiber" as the specific connection technology (at any speed) or a connection speed of at least 100 Mbps.
+Connectivity status is compiled from data from the National Broadband Map (December 2013) and data submitted to the FCC in WC Docket Number 13-184 and posted at [http://www.fcc.gov/encyclopedia/E-rate-modernization-data](http://www.fcc.gov/encyclopedia/E-rate-modernization-data). Fiber connectivity is determined from either notation of "fiber" as the specific connection technology (at any speed) or a connection speed of at least 100 Mbps.
 
 #### About
 
@@ -32,7 +32,7 @@ Please submit your comments, which will be included in the public record for WC 
 
 This is an interactive map that shows which public libraries (central and branch) are connected to fiber. It does not show what percent of libraries actually subscribe to high-speed fiber. The universe of public libraries is defined using the 2011-2012 IMLS Public Libraries Survey available from [http://www.imls.gov/research/pls_data_files.aspx](http://www.imls.gov/research/pls_data_files.aspx). 
 
-Connectivity status is compiled from data from the National Broadband Map (June 2013) and data submitted to the FCC in WC Docket Number 13-184 and posted at [http://www.fcc.gov/encyclopedia/E-rate-modernization-data](http://www.fcc.gov/encyclopedia/E-rate-modernization-data). Fiber connectivity is determined from either notation of "fiber" as the specific connection technology (at any speed) or a connection speed of at least 100 Mbps.
+Connectivity status is compiled from data from the National Broadband Map (December 2013) and data submitted to the FCC in WC Docket Number 13-184 and posted at [http://www.fcc.gov/encyclopedia/E-rate-modernization-data](http://www.fcc.gov/encyclopedia/E-rate-modernization-data). Fiber connectivity is determined from either notation of "fiber" as the specific connection technology (at any speed) or a connection speed of at least 100 Mbps.
 
 #### About
 
