@@ -38,10 +38,6 @@ header+#content-main { margin-top: 60px; }
 .map-footer .help-block { color: #51545B; float: right; font-style: italic; margin-top: 2px; }
 #map { height: 372px; width: 100%; cursor: pointer; }
 #map:active { cursor: grabbing; cursor: -moz-grabbing; cursor: -webkit-grabbing; }
-.map-legend { margin: 10px auto 0; width: 250px; }
+.map-legend { margin: 10px 0 0; width: 250px; }
 .map-legend th { white-space: nowrap; }
 .map-legend span {display: block; float: right; height: 15px; width: 30px; }
-
-@media (max-width: 900px) {
-    .container { width: 900px; }
-}
