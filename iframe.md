@@ -30,7 +30,7 @@ Please submit your comments, which will be included in the public record for WC 
 <div id="desc-library" class="map-desc hide" markdown="1">
 #### Libraries
 
-This is an interactive map that shows which public libraries (central and branch) are connected to fiber. It does not show what percent of libraries actually subscribe to high-speed fiber. The universe of public libraries is defined using the 2011-2012 IMLS Public Libraries Survey available from <a href="http://www.imls.gov/research/pls_data_files.aspx" target="eratemap">http://www.imls.gov/research/pls_data_files.aspx</a>. 
+This is an interactive map that shows which public libraries (central and branch) are connected to fiber. It does not show what percent of libraries actually subscribe to high-speed fiber. The universe of public libraries is defined using the 2011-2012 IMLS Public Libraries Survey available from <a href="https://www.imls.gov/research-evaluation/data-collection/public-libraries-united-states-survey" target="eratemap">https://www.imls.gov/research-evaluation/data-collection/public-libraries-united-states-survey</a>. 
 
 Connectivity status is compiled from data from the National Broadband Map (June 2013) and data submitted to the FCC in WC Docket Number 13-184 and posted at <a href="http://www.fcc.gov/encyclopedia/E-rate-modernization-data" target="_top">http://www.fcc.gov/encyclopedia/E-rate-modernization-data</a>. Fiber connectivity is determined from either notation of "fiber" as the specific connection technology (at any speed) or a connection speed of at least 100 Mbps.
 
