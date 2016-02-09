@@ -2,7 +2,7 @@
 layout: map
 ---
 <div id="desc-schoolDist" class="map-desc hide" markdown="1">
-#####**Note: This map is no longer being updated. We plan to release a new map based on the FY16 E-rate program data collected by USAC. Please email <E-rateDataTeam@fcc.gov> with any questions. Thank you for your patience.**
+#### **Note: This map is no longer being updated. We plan to release a new map based on the FY16 E-rate program data collected by USAC. Please email <E-rateDataTeam@fcc.gov> with any questions. Thank you for your patience.**
 
 #### School Districts
 
@@ -29,7 +29,7 @@ Can you help improve the data that drives this map?  The Commission has asked fo
 Please submit your comments, which will be included in the public record for WC Docket Number 13-184, to <schoolfibermap@fcc.gov>.  Those e-mailed comments will be used to periodically update this map.  All information submitted to that e-mail address, including names and e-mail and street addresses, will be publicly available via the web.
 </div>
 <div id="desc-library" class="map-desc hide" markdown="1">
-#####**Note: This map is no longer being updated. We plan to release a new map based on the FY16 E-rate program data collected by USAC. Please email <E-rateDataTeam@fcc.gov> with any questions. Thank you for your patience.**
+#### **Note: This map is no longer being updated. We plan to release a new map based on the FY16 E-rate program data collected by USAC. Please email <E-rateDataTeam@fcc.gov> with any questions. Thank you for your patience.**
 
 #### Libraries
 
