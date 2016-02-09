@@ -31,6 +31,7 @@ Please submit your comments, which will be included in the public record for WC 
 </div>
 <div id="desc-library" class="map-desc hide" markdown="1">
 #### Note: This map is no longer being updated. We plan to release a new map based on the FY16 E-rate program data collected by USAC. Please email <E-rateDataTeam@fcc.gov> with any questions. Thank you for your patience.
+
 #### Libraries
 
 This is an interactive map that shows which public libraries (central and branch) are connected to fiber. It does not show what percent of libraries actually subscribe to high-speed fiber. The universe of public libraries is defined using the 2011-2012 IMLS Public Libraries Survey available from <a href="https://www.imls.gov/research-evaluation/data-collection/public-libraries-united-states-survey" target="eratemap">https://www.imls.gov/research-evaluation/data-collection/public-libraries-united-states-survey</a>.
