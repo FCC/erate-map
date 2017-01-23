@@ -2,6 +2,8 @@
 
     "use strict";
 	var mapType;
+
+    L.mapbox.accessToken = 'pk.eyJ1IjoiY29tcHV0ZWNoIiwiYSI6InMyblMya3cifQ.P8yppesHki5qMyxTc2CNLg';
     
     // Define map layers
     var mapLayers = {
@@ -28,7 +30,7 @@
                 var defLat = 38.82,
                     defLon = -94.96,
                     defZoom = 4;
-                                 
+                                                 
                 var map = L.mapbox.map('map', null, {minZoom: 3, maxZoom: 10, zoom: defZoom});              
 				//	.setView([defLat, defLon], defZoom);
 
